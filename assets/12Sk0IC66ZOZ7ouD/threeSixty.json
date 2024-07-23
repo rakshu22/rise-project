@@ -1,0 +1,27 @@
+{
+  "version": "3.89.32618.0",
+  "course_id": "5ph19Rupu5e",
+  "title": "Animated diagram",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Untitled Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6O15EFdUBYe",
+      "title": "Base",
+      "scene_index": "1.1"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 980,
+    "height": 271
+  },
+  "stage": {
+    "width": 960,
+    "height": 200
+  }
+}

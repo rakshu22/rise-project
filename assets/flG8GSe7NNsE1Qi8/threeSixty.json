@@ -1,0 +1,27 @@
+{
+  "version": "3.89.32618.0",
+  "course_id": "5eArmeUAcu6",
+  "title": "IoT History",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Untitled Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6bp0KvmvxSk",
+      "title": "Base",
+      "scene_index": "1.1"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 1220,
+    "height": 2165
+  },
+  "stage": {
+    "width": 960,
+    "height": 2047
+  }
+}
